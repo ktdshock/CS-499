@@ -14,4 +14,4 @@ Security awareness became an important supporting skill throughout the program. 
 The artifacts included in this ePortfolio work together to demonstrate my development as a software engineer across multiple areas of computer science. Each artifact highlights a different aspect of my technical skill set, including software design and engineering, algorithmic problem solving, and database integration. Together, they reflect my ability to design complete systems, reason through complex problems, and implement solutions using appropriate tools and technologies. This portfolio provides a cohesive representation of my skills and serves as a foundation for continued growth as I pursue a professional career in software engineering.
 
 ## Code Review
-[Watch Code Review Video] ([https://youtube.com/your-link](https://youtu.be/v3ldpty8gRE))
+[Watch Code Review Video] (https://youtube.com/your-link](https://youtu.be/v3ldpty8gRE)
